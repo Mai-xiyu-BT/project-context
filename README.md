@@ -25,7 +25,7 @@ clawhub install project-context
 
 ```bash
 # In your project directory
-python3 -c "$(curl -fsSL https://raw.githubusercontent.com/yourusername/project-context/main/scripts/init_project.py)"
+python3 -c "$(curl -fsSL https://raw.githubusercontent.com/Mai-xiyu-BT/project-context/main/scripts/init_project.py)"
 ```
 
 Or manually:
